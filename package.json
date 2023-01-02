@@ -1,7 +1,7 @@
 {
   "name": "ts-jest-eg",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demonstrating unit test in JEST using a simple addition function",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -18,5 +18,16 @@
   },
   "dependencies": {
     "jest-cli": "^29.3.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvi12s/basic-jest-testcase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanvi12s/basic-jest-testcase/issues"
+  },
+  "homepage": "https://github.com/tanvi12s/basic-jest-testcase#readme"
 }
